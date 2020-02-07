@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "Post Two",
+      "body": "This is post two"
+    },
+    {
+      "title": "Hello there",
+      "body": "Hi THERE TOO",
+      "id": 4
+    },
+    {
+      "title": "this is awesome",
+      "body": "amazing girl",
+      "id": 5
+    },
+    {
+      "title": "Say something",
+      "body": "What's on your mind? who khows",
+      "id": 7
+    }
+  ]
+}
